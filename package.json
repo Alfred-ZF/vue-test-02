@@ -1,7 +1,7 @@
 {
   "name": "vue-test-02",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Vue.js demo",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,10 @@
   "author": "zf",
   "license": "ISC",
   "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhangfan4132/vue-test-02"
+  },
   "devDependencies": {
     "vue": "^2.5.3"
   }
